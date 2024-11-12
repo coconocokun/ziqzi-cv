@@ -1,1 +1,1 @@
-# ziqzi-students.github.io
+# CV page repository for ziqzi students
